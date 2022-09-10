@@ -1,2 +1,5 @@
-package impl;public enum Gender {
+package Model;
+
+public enum Gender {
+    MALE;
 }
